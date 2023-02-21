@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.leftimg {
+float:left; /* Вирівнювання по лівому краю */
+margin: 7px 7px 7px 0; /* Відступи навколо картинки */
+}
+.rightimg {
+float: right; /* Вирівнювання по правому краю */
+margin: 0 7px 7px 7px; /* Відступи навколо картинки */
+}
